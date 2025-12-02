@@ -1,51 +1,50 @@
-## Exp. No. 1(b)
+## Exp. No. 1(c)
 
-## FREQUECNY RESPONSE OF VOLTAGE SHUNT FEEDBACK AMPLIFIER
-<img width="822" height="889" alt="image" src="https://github.com/user-attachments/assets/a1f70018-04e2-4b1d-8a91-695ddb6af202" />
-<img width="746" height="1062" alt="image" src="https://github.com/user-attachments/assets/c0183060-3ae7-416a-9fd7-51e518dc93f6" />
-<img width="723" height="995" alt="image" src="https://github.com/user-attachments/assets/956df1e8-cf1a-44ca-b762-bee6f746dd05" />
-<img width="723" height="995" alt="image" src="https://github.com/user-attachments/assets/591791ac-b321-4c7b-8223-582f9353519c" />
+## FREQUENCY RESPONSE OF CURRENT SERIES FEEDBACK AMPLIFIER
+<img width="804" height="973" alt="image" src="https://github.com/user-attachments/assets/2ac932c7-64fa-4b6b-b572-2b3cfd8ae11a" />
+<img width="722" height="1037" alt="image" src="https://github.com/user-attachments/assets/e7eba3fc-cb9b-48d4-aaa4-ba1b626a5bac" />
+<img width="724" height="1066" alt="image" src="https://github.com/user-attachments/assets/b3992104-4c58-4976-b6bf-35fc8e647d05" />
 
 # Circuit Diagram 
 # Without Feedback:
-<img width="581" height="362" alt="image" src="https://github.com/user-attachments/assets/4b0a599c-6d35-4616-a306-2360b5f4f172" />
+<img width="540" height="428" alt="image" src="https://github.com/user-attachments/assets/aaa574ca-68cc-4744-b0af-cdc45619c37c" />
 
 # With Feedback:
-<img width="689" height="382" alt="image" src="https://github.com/user-attachments/assets/0ce0d0fa-b220-4727-bdc4-d6a9b06bd56c" />
+<img width="533" height="283" alt="image" src="https://github.com/user-attachments/assets/d423c0cc-853d-4fb0-8316-c17b10cf49c8" />
+
 
 # Tabulation
 
-<img width="527" height="541" alt="image" src="https://github.com/user-attachments/assets/cd40e4f5-c5a7-4393-baf2-aaecd0739e58" />
+![WhatsApp Image 2025-11-23 at 12 59 05_740a1a83](https://github.com/user-attachments/assets/11029071-326a-46bd-b5d9-1643a50e11d6)
 
 
 # Graph
 
- ![WhatsApp Image 2025-11-23 at 12 40 09_484cd602](https://github.com/user-attachments/assets/c28d5e00-8f5f-4633-bf82-5b4a2a2a078f)
-
+![WhatsApp Image 2025-11-23 at 12 50 54_9b68d827](https://github.com/user-attachments/assets/cbe70f38-f52a-4d80-9c38-ebf946479d9f)
 
 # Sample images 
 
-![WhatsApp Image 2025-11-23 at 12 38 27_63bf8ae6](https://github.com/user-attachments/assets/0133c95c-2e95-4a66-bec0-e82c099e86cd)
+![WhatsApp Image 2025-11-23 at 12 50 47_267ff18a](https://github.com/user-attachments/assets/a6a42816-4b12-4c32-8bb5-5c5eb8626f74)
 
-<img width="473" height="280" alt="image" src="https://github.com/user-attachments/assets/e9d17ee1-e183-4948-acf9-bb6fc1ec2ca6" />
+![WhatsApp Image 2025-11-23 at 13 00 27_54d3e714](https://github.com/user-attachments/assets/7f472f2a-d838-43bc-b5a0-077125ffe43a)
+
 
 ### **Result**
 
-Thus the voltage shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
+Thus the current series  feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | 0.45KHz | 0.37Khz  |
-| 2 | Upper cut-off frequency | 500KHz | 1.5MHz |
-| 3 | Bandwidth | \( BW = fh - fl = 499.5KHz \) | \( BW = f'h - f'l = 1499 Hz\) |
-| 4 | Mid-band Gain | \( A{v(mid)} = 25.52 \) | \( A'{v(mid)} = 18.40\) |
-| 5 | Gain at half power point | 18.04  | 13.71 |
+| 1 | Lower cut-off frequency |610Hz |360Hz |
+| 2 | Upper cut-off frequency |470KHz|270KHz |
+| 3 | Bandwidth | 489.3KHz |269.6KHz  |
+| 4 | Mid-band Gain | 12.88| 8.40|
+| 5 | Gain at half power point | 9.10 |5.93  |
 
 ---
 
 **Conclusion:**  
-The frequency response of the voltage-shunt feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
+The frequency response of the current series feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
 
 ---
-
 
 **End of Experiment**
